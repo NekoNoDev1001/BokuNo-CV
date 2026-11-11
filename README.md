@@ -6,7 +6,7 @@ Bogotá, Colombia · +57 300 7396019 · [1026jota@gmail.com](mailto:1026jota@gma
 
 ## Professional Summary
 
-Full Stack Developer with 5+ years of experience in the fintech sector, specialized in Laravel and Vue.js. Experienced integrating financial APIs with institutions such as Bancolombia, Davivienda and PSE, leading feature development under SOLID principles and agile methodologies, and automating deployments with Docker and CI/CD. Also experienced with workflow automation (n8n) and AI-assisted development tooling (Codex). Systems Administrator focused on continuous improvement, scalability and code quality.
+Full Stack Developer with 5+ years of experience building fintech products, specializing in Laravel and Vue.js. Experienced integrating banking and payment APIs, including Bancolombia, Davivienda, PSE, and Wompi, and delivering production features across backend and frontend systems. Hands-on with Docker, CI/CD, PostgreSQL, and workflow automation. Systems Administration Engineering graduate focused on reliable services and maintainable code.
 
 ## Work Experience
 
@@ -14,11 +14,11 @@ Full Stack Developer with 5+ years of experience in the fintech sector, speciali
 
 **March 2020 – Present**
 
-- Designed, wrote and consumed financial APIs integrating banking institutions and payment gateways (Bancolombia, Davivienda, PSE, Wompi), ensuring reliable transactions in production.
-- Led backend (Laravel 5–8) and frontend (Vue.js 2) feature development, applying SOLID principles and agile methodologies to improve system robustness and scalability.
-- Dockerized the application with Docker Compose, standardizing development environments across the team and reducing setup time.
-- Implemented Bitbucket Pipelines for continuous integration (CI/CD), improving deployment efficiency and quality.
-- Built automated workflows with n8n and used Codex to accelerate development and streamline repetitive engineering tasks.
+- Designed and integrated financial APIs with banks and payment providers, including Bancolombia, Davivienda, PSE, and Wompi, supporting production transactions.
+- Developed backend features with Laravel 5–8 and frontend features with Vue.js 2, applying SOLID principles in an Agile team.
+- Containerized the application with Docker Compose, standardizing development environments and reducing setup time.
+- Implemented Bitbucket Pipelines for CI/CD, improving deployment efficiency and quality.
+- Built workflow automations with n8n and used Codex to accelerate repetitive engineering tasks.
 
 ## Featured Projects
 
@@ -26,14 +26,14 @@ Full Stack Developer with 5+ years of experience in the fintech sector, speciali
 
 *In development*
 
-- Bilingual metrics tracking app built with Nuxt 4, Vue 3, Laravel Gateway and Backend services.
+- Bilingual metrics tracking app built with Nuxt four, Vue three, Laravel Gateway and Backend services.
 - Implemented Google sign-in with application-issued JWTs, metric creation and listing, and dated value recording through authenticated API flows.
 - Uses separate PostgreSQL databases, Docker Compose, and Prometheus/Grafana monitoring.
 
 ### Masmobile — Phone Balance Top-up Platform
 
-- Built with Laravel 10 and Vue 3, integrating a SOAP API for phone balance and data package top-ups.
-- Includes reporting and user management; hosted on Google Cloud. Processed more than 8,000 top-ups in its first six months.
+- Built with Laravel ten and Vue three, integrating a SOAP API for phone balance and data package top-ups.
+- Includes reporting and user management; hosted on Google Cloud. Processed more than eight thousand top-ups in its first six months.
 
 ## Education
 
@@ -52,4 +52,4 @@ Universidad Nacional de Colombia, Manizales Campus — 2019
 
 ## Languages
 
-Spanish — Native · English — B2 (Upper Intermediate)
+Spanish - Native | English - B2 (Upper Intermediate)
