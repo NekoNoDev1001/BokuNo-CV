@@ -1,57 +1,55 @@
 # Jofree Alexander Montaño
-**Full Stack Engineer | DevOps Enthusiast**
 
-Bogotá, Colombia | +57 300 7396019 | 1026jota@gmail.com
+**Full Stack Developer — Backend & Frontend**
 
-[LinkedIn](https://www.linkedin.com/in/jofreealexandermontano) | [GitHub](https://github.com/NekoNoDev1001) | [Personal Web](https://www.bokunodata.com)
+Bogotá, Colombia · +57 300 7396019 · [1026jota@gmail.com](mailto:1026jota@gmail.com) · LinkedIn · [GitHub](https://github.com/NekoNoDev1001)
 
 ## Professional Summary
 
-**Information Systems Manager and Full Stack Developer** with 4+ years of experience building scalable web applications using Laravel and Vue.js. Proven track record in integrating complex financial APIs and modernizing infrastructure through containerization. Passionate about clean code (SOLID) and automating deployment pipelines to improve team efficiency.
-
----
-
-## Technical Skills
-
-- **DevOps & Infrastructure:** Docker, Docker Compose, Kubernetes (K3s/Minikube), Nginx, Linux Administration.
-- **Architecture:** Clean Architecture, Event-Driven Architecture, RESTful APIs, SOLID Principles.
-- **CI/CD & Automation:** Bitbucket Pipelines, Jenkins, Git/Gitflow, n8n (workflow automation & integrations).
-- **Backend Development:** PHP (Laravel v5–v12), Node.js, Python, Java.
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis.
-- **Frontend:** JavaScript (ES6+, TypeScript), Vue.js, React, HTML5, CSS3/SASS.
-- **Monitoring & Tools:** Prometheus, Grafana, Jira, Agile/Scrum.
-
----
+Full Stack Developer with 5+ years of experience in the fintech sector, specialized in Laravel and Vue.js. Experienced integrating financial APIs with institutions such as Bancolombia, Davivienda and PSE, leading feature development under SOLID principles and agile methodologies, and automating deployments with Docker and CI/CD. Also experienced with workflow automation (n8n) and AI-assisted development tooling (Codex). Systems Administrator focused on continuous improvement, scalability and code quality.
 
 ## Work Experience
 
-### **Full Stack Developer / DevOps Engineer**
-**SoloVive S.A.S.** | *March 2020 – Present*
+### Full Stack Developer — SoloVive S.A.S.
 
-- **Infrastructure Modernization (Containerization):** Spearheaded the migration of legacy monolithic applications to a Docker-based environment using Docker Compose. This initiative eliminated production-development conflicts and reduced developer onboarding time by approximately 40%.
-- **Financial Integrations:** Architected and secured critical API integrations for the fintech sector, connecting with major payment gateways and banking services including Bancolombia, Davivienda, PSE, and Wompi.
-- **Workflow Automation (n8n):** Designed and implemented automated workflows using n8n to orchestrate integrations between internal systems and third-party financial services through webhooks, REST APIs, and scheduled jobs, reducing manual operational tasks and improving process reliability.
-- **Full Cycle Development:** Led the full software development lifecycle (SDLC) using Laravel and Vue.js, ensuring high availability and scalability for financial transaction systems.
-- **Code Quality & Architecture:** Implemented SOLID principles and Agile methodologies, reducing technical debt and improving long-term maintainability.
+**March 2020 – Present**
 
----
+- Designed, wrote and consumed financial APIs integrating banking institutions and payment gateways (Bancolombia, Davivienda, PSE, Wompi), ensuring reliable transactions in production.
+- Led backend (Laravel 5–8) and frontend (Vue.js 2) feature development, applying SOLID principles and agile methodologies to improve system robustness and scalability.
+- Dockerized the application with Docker Compose, standardizing development environments across the team and reducing setup time.
+- Implemented Bitbucket Pipelines for continuous integration (CI/CD), improving deployment efficiency and quality.
+- Built automated workflows with n8n and used Codex to accelerate development and streamline repetitive engineering tasks.
 
-## Continuing Education & Personal Projects
+## Featured Projects
 
-- **Orchestration:** Implemented testing environments using Kubernetes (K3s/Minikube).
-- **Automation:** Configured Jenkins automation servers for personal development projects and CI/CD pipelines.
-- **Message Brokers:** RabbitMQ (event handling and decoupling).
+### [BokuNoData](https://bokunodata.com) — Personal Metrics Tracking App
 
----
+*In development*
+
+- Bilingual metrics tracking app built with Nuxt 4, Vue 3, Laravel Gateway and Backend services.
+- Implemented Google sign-in with application-issued JWTs, metric creation and listing, and dated value recording through authenticated API flows.
+- Uses separate PostgreSQL databases, Docker Compose, and Prometheus/Grafana monitoring.
+
+### Masmobile — Phone Balance Top-up Platform
+
+- Built with Laravel 10 and Vue 3, integrating a SOAP API for phone balance and data package top-ups.
+- Includes reporting and user management; hosted on Google Cloud. Processed more than 8,000 top-ups in its first six months.
 
 ## Education
 
-### **B.S. in Information Systems Management**
-**Universidad Nacional de Colombia** | *2019*
+**Systems Administration Engineering**  
+Universidad Nacional de Colombia, Manizales Campus — 2019
 
----
+## Technical Skills
+
+- **Backend:** PHP (Laravel), Node.js, Python, Java
+- **Frontend:** Vue.js, React, jQuery, HTML, CSS, Sass
+- **Data:** MySQL, PostgreSQL, MongoDB, Redis
+- **DevOps / Infrastructure:** Docker, Docker Compose, Kubernetes, Jenkins, Bitbucket Pipelines, Git/Gitflow, Nginx
+- **Automation & AI Tooling:** n8n, Codex
+- **Testing & Monitoring:** PHPUnit, Jest, Prometheus, Grafana
+- **Planning / Design:** Jira, Figma, Lucidchart
 
 ## Languages
 
-- **English:** B2 – Professional Working Proficiency
-- **Spanish:** Native Speaker
+Spanish — Native · English — B2 (Upper Intermediate)
